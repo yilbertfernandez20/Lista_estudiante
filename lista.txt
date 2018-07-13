@@ -1,0 +1,2 @@
+0=nombre=yil apellidos=fer residencia=siquirres trabaja=si carnet=0 identificacion=0 tipoident=20
+
